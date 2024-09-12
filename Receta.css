@@ -1,0 +1,7 @@
+:root{
+    --violeta: #452389;
+    --blancomarfil: #e2e6ea;
+}
+div h1{
+    color: var(--violeta);
+}
